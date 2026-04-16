@@ -40,6 +40,6 @@ This project focuses on analyzing conversion performance in an e-commerce store 
 
 ## Links
 Tableau Dashboard: https://public.tableau.com/app/profile/mariana.melnyk/viz/EcommerceFunnelConversionDashboard_17720610478790/Dashboard1?publish=yes
-<img width="1999" height="2249" alt="Dashboard 1" src="https://github.com/user-attachments/assets/55b78d93-4316-490d-a2ac-93f2dbface93" />
+<img width="1999" height="2249" alt="Dashboard 1 (1)" src="https://github.com/user-attachments/assets/8d588cf1-e4d0-482b-b59a-d0e46622bdb4" />
 
 BigQuery Query: https://console.cloud.google.com/bigquery?sq=280920115893:92400a6ca4b24baca8b5c5b19ded8f70&project=goit-475214&ws=!1m4!1m3!8m2!1s280920115893!2s92400a6ca4b24baca8b5c5b19ded8f70
