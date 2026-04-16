@@ -5,20 +5,20 @@
 This project focuses on analyzing conversion performance in an e-commerce store using GA4 data. The goal was to transform raw event-level data into structured metrics and an interactive dashboard to support marketing and product decision-making.
 
 ## Key Questions
--How do users move through the conversion funnel?
--Where do the biggest drop-offs occur?
--How does conversion rate vary across traffic sources?
--What differences exist between mobile and desktop users?
--How do conversion metrics change over time?
+- How do users move through the conversion funnel?
+- Where do the biggest drop-offs occur?
+- How does conversion rate vary across traffic sources?
+- What differences exist between mobile and desktop users?
+- How do conversion metrics change over time?
 
 ## What Was Done
--Built session-based datasets using SQL in BigQuery
--Constructed a full conversion funnel (7 stages)
--Calculated key metrics: Sessions, Conversion Rate, Purchases
--Analyzed traffic sources (source / medium / campaign)
--Segmented users by device, OS, language, and country
--Created time-based analysis of sessions and conversion rate
--Developed an interactive dashboard in Tableau with filters and drill-down
+- Built session-based datasets using SQL in BigQuery
+- Constructed a full conversion funnel (7 stages)
+- Calculated key metrics: Sessions, Conversion Rate, Purchases
+- Analyzed traffic sources (source / medium / campaign)
+- Segmented users by device, OS, language, and country
+- Created time-based analysis of sessions and conversion rate
+- Developed an interactive dashboard in Tableau with filters and drill-down
 
 ## Key Insights
 -Significant drop-off between product view and add-to-cart stage → potential UX or pricing issues
