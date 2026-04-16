@@ -21,22 +21,22 @@ This project focuses on analyzing conversion performance in an e-commerce store 
 - Developed an interactive dashboard in Tableau with filters and drill-down
 
 ## Key Insights
--Significant drop-off between product view and add-to-cart stage → potential UX or pricing issues
--Paid traffic shows higher conversion compared to organic traffic
--Mobile users convert хуже than desktop users → potential mobile UX gap
--Conversion rate varies significantly across traffic channels
--Time-based analysis shows fluctuations in conversion → possible seasonality or campaign impact
+- Significant drop-off between product view and add-to-cart stage → potential UX or pricing issues
+- Paid traffic shows higher conversion compared to organic traffic
+- Mobile users convert хуже than desktop users → potential mobile UX gap
+- Conversion rate varies significantly across traffic channels
+- Time-based analysis shows fluctuations in conversion → possible seasonality or campaign impact
 
 ## Recommendations
--Improve product page experience to reduce drop-off before add-to-cart
--Optimize mobile user journey
--Focus on high-performing traffic channels
--Analyze campaign performance to stabilize conversion trends
+- Improve product page experience to reduce drop-off before add-to-cart
+- Optimize mobile user journey
+- Focus on high-performing traffic channels
+- Analyze campaign performance to stabilize conversion trends
 
 ## Tools & Technologies
--SQL (BigQuery)
--GA4 (event-based data)
--Tableau (dashboard & visualization)
+- SQL (BigQuery)
+- GA4 (event-based data)
+- Tableau (dashboard & visualization)
 
 ## Links
 Tableau Dashboard: https://public.tableau.com/app/profile/mariana.melnyk/viz/EcommerceFunnelConversionDashboard_17720610478790/Dashboard1?publish=yes
